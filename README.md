@@ -1,2 +1,2 @@
 # MoodLink
-Mobile application designed to help partners communicate their current mood through customizable widgets
+Mobile application designed to help friends communicate their current mood through customizable widgets
